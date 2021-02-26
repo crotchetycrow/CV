@@ -1,6 +1,6 @@
 ## Jack Hooper
 
-Budding full-stack junior developer in the making at one of the leading software development bootcamps in the UK. Coming from a very Social Science background, what I lack in science experience, I make up for in desire to learn and an enthusiasm for problem solving.
+A highly motivated, goal orientated self starter and budding full-stack junior developer in the making at one of the leading software development bootcamps in the UK. Coming from a very Social Science background, what I lack in technical experience, I make up for in desire to learn and an enthusiasm for problem solving.
 
 ## Projects
 
@@ -59,7 +59,7 @@ Resilience and innovation are two vital components of problem solving. I believe
   Building a PC is akin to puzzling, it requires patience and resilience. Rushing the process and making a mistake will set you back and even damage sensitive components if you aren't careful. The difficult part of PC building is the wiring - cable management. My approach in tackling the problem of efficient cable management involves pre-planning and careful consideration.
 
 - _Language learning_
-  Language is a an important tool of communication and communication is a fundamental skill in achieving results. I consider myself to have an affinity for learning languages, by having a near native speaking level in Spanish, a conversational level in German and an elementary level in Japanese. I have learnt to appreciate the differences between how these languages communicate. Since exploring programming languages like Ruby and Python I have tried to apply what I know about language to overcome the considerable difference between programming language and spoken language.
+  Language is a an important tool of communication and communication is a fundamental skill in achieving results. I consider myself to have an affinity for learning languages, by having a near native speaking level in Spanish, a conversational level in German and an elementary level in Japanese. I have learnt to appreciate the differences between how these languages communicate. Since exploring programming languages like Ruby and Python I have tried to apply what I know about language to overcome the considerable difference between programming and spoken language.
 
 ## Education
 
