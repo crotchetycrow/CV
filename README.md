@@ -6,8 +6,8 @@ A highly motivated, goal orientated self starter and budding full-stack junior d
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Final project**            | Reclaim! A loyatly reward card to incentivise recylcing for consumers and businesses. | React frontend with a Rails backend, Jest and RSpec |
+| **Something else worked on** | Acebook a facebook clone. | React Native frontend with Rails backend, Jest and RSpec              |
 
 ## Experience
 
@@ -73,7 +73,7 @@ The product of said journey -- https://github.com/crotchetycrow
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript, React
 - RSpec, Jasmine
 
 #### University of Kent (September 2015 to July 2018)
